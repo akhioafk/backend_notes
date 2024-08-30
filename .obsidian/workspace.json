@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network.md",
+                "file": "SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "41e26751f760a6f9",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network.md",
+                "file": "SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network.md",
+                "file": "SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network.md"
+                "file": "SQL.md"
               }
             }
           }
@@ -148,23 +149,24 @@
   },
   "active": "afa28bcc64d348ec",
   "lastOpenFiles": [
-    "SQL.md",
-    "Docker.md",
-    "General Knowledge.md",
+    "Images/Pasted image 20240830214147.png",
+    "Images/Pasted image 20240830213335.png",
+    "Images/Pasted image 20240830212601.png",
+    "Images/Pasted image 20240830204444.png",
     "Network.md",
-    "dolgi.md",
+    "SQL.md",
     "Linux.md",
     "git.md",
+    "General Knowledge.md",
+    "dolgi.md",
+    "Docker.md",
+    "Images/Pasted image 20240830113318.png",
+    "Images/Pasted image 20240830112050.jpg",
+    "Images/Pasted image 20240830111303.jpg",
     "Images/Pasted image 20240830040225.png",
     "Images/Pasted image 20240830035224.png",
     "Images/Pasted image 20240830034801.png",
     "Images/Pasted image 20240830034624.png",
-    "Images/Pasted image 20240830024906.png",
-    "Images/Pasted image 20240830024631.png",
-    "Images/Pasted image 20240830024233.png",
-    "Images/Pasted image 20240830000304.png",
-    "Images/Pasted image 20240829235804.png",
-    "Images/Pasted image 20240829235607.png",
     "Images"
   ]
 }
