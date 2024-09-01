@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "Django/Serializers.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "41e26751f760a6f9",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "Django/Serializers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL.md",
+                "file": "Django/Serializers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL.md"
+                "file": "Django/Serializers.md"
               }
             }
           }
@@ -149,12 +148,14 @@
   },
   "active": "afa28bcc64d348ec",
   "lastOpenFiles": [
+    "Django/Serializers.md",
+    "SQL.md",
+    "Django",
     "Images/Pasted image 20240830214147.png",
     "Images/Pasted image 20240830213335.png",
     "Images/Pasted image 20240830212601.png",
     "Images/Pasted image 20240830204444.png",
     "Network.md",
-    "SQL.md",
     "Linux.md",
     "git.md",
     "General Knowledge.md",
@@ -166,7 +167,6 @@
     "Images/Pasted image 20240830040225.png",
     "Images/Pasted image 20240830035224.png",
     "Images/Pasted image 20240830034801.png",
-    "Images/Pasted image 20240830034624.png",
     "Images"
   ]
 }
